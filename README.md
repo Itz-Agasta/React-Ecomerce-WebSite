@@ -10,6 +10,9 @@ This responsive e-commerce website allows users to view product details, filter 
 
 ## Installation:
 -Clone the repository: https://github.com/Kalpeshgunjal07/React-Ecomerce-WebSite.git
+
 -Navigate to the directory: cd your_project
+
 -Install dependencies: npm install
+
 -run : npm run dev
