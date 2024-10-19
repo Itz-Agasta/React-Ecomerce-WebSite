@@ -3,7 +3,9 @@ This responsive e-commerce website allows users to view product details, filter 
 
 ## Technologies Used:
 -React
+
 -Tailwind CSS
+
 -Git and GitHub
 
 ## Installation:
